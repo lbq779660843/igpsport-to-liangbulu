@@ -37,11 +37,11 @@
 
 ```bash
 # Windows
-git clone https://github.com/<your-username>/igpsport-to-liangbulu.git \
+git clone https://github.com/lbq779660843/igpsport-to-liangbulu.git \
   "$env:USERPROFILE\.claude\skills\igpsport-to-liangbulu"
 
 # macOS / Linux
-git clone https://github.com/<your-username>/igpsport-to-liangbulu.git \
+git clone https://github.com/lbq779660843/igpsport-to-liangbulu.git \
   ~/.claude/skills/igpsport-to-liangbulu
 ```
 
@@ -50,7 +50,7 @@ git clone https://github.com/<your-username>/igpsport-to-liangbulu.git \
 ### 独立使用
 
 ```bash
-git clone https://github.com/<your-username>/igpsport-to-liangbulu.git
+git clone https://github.com/lbq779660843/igpsport-to-liangbulu.git
 cd igpsport-to-liangbulu
 ```
 
