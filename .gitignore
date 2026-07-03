@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Outputs (calibrated GPX files, params, reports)
+*_params.json
+*_segments.json
+calibrated.gpx
+result.gpx
+result_params.json
+wh_cs_calibrated.gpx
+wh_cs_calibrated_params.json
+route_report.md
+route_report_segments.json
+
+# Input GPX files (user data)
+1.gpx
+*.gpx
+!examples/*.gpx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
